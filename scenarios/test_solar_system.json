@@ -1,0 +1,94 @@
+{
+  "bodies": [
+    {
+      "comment": "Star (Sun), M=2e30 kg",
+      "x": 0.0,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "mass": 2.0e30,
+      "radius": 2.5e10,
+      "color": [1.0, 1.0, 0.9]
+    },
+    {
+      "comment": "Mercury at 0.387 AU, v_circ ~48009 m/s",
+      "x": 5.791e10,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 48009.0,
+      "mass": 3.285e23,
+      "radius": 1.5e9,
+      "color": [0.7, 0.7, 0.7]
+    },
+    {
+      "comment": "Venus at 0.723 AU, v_circ ~35130 m/s",
+      "x": 1.0816e11,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 35130.0,
+      "mass": 4.87e24,
+      "radius": 3.8e9,
+      "color": [1.0, 0.8, 0.4]
+    },
+    {
+      "comment": "Earth at 1.0 AU, v_circ ~29871 m/s",
+      "x": 1.496e11,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 29871.0,
+      "mass": 5.97e24,
+      "radius": 4e9,
+      "color": [0.2, 0.5, 1.0]
+    },
+    {
+      "comment": "Mars at 1.524 AU, v_circ ~24201 m/s",
+      "x": 2.280e11,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 24201.0,
+      "mass": 6.39e23,
+      "radius": 2.1e9,
+      "color": [0.8, 0.3, 0.1]
+    },
+    {
+      "comment": "Jupiter at 5.203 AU, v_circ ~13095 m/s",
+      "x": 7.784e11,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 13095.0,
+      "mass": 1.898e27,
+      "radius": 2e10,
+      "color": [0.9, 0.7, 0.5]
+    },
+    {
+      "comment": "Saturn at 9.537 AU, v_circ ~9671 m/s",
+      "x": 1.427e12,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 9671.0,
+      "mass": 5.683e26,
+      "radius": 1.7e10,
+      "color": [0.9, 0.8, 0.5]
+    },
+    {
+      "comment": "Uranus at 19.19 AU, v_circ ~6819 m/s",
+      "x": 2.871e12,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 6819.0,
+      "mass": 8.681e25,
+      "radius": 9e9,
+      "color": [0.5, 0.9, 1.0]
+    },
+    {
+      "comment": "Neptune at 30.07 AU, v_circ ~5448 m/s",
+      "x": 4.498e12,
+      "y": 0.0,
+      "vx": 0.0,
+      "vy": 5448.0,
+      "mass": 1.024e26,
+      "radius": 8e9,
+      "color": [0.2, 0.3, 0.9]
+    }
+  ]
+}
