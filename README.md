@@ -8,7 +8,11 @@ A real-time 2D gravitational N-body simulator written in C++20.
 
 ### Accretion Disk
 
-https://github.com/user-attachments/assets/37972584-05e6-4069-b8ba-154faae19e12
+
+
+https://github.com/user-attachments/assets/b730ba46-7c20-4969-b016-15476269cdc6
+
+
 
 *Demonstration of a simulation run with 10,000 particles*
 
@@ -16,7 +20,11 @@ https://github.com/user-attachments/assets/37972584-05e6-4069-b8ba-154faae19e12
 
 ### Cold Cluster Collapse
 
-https://github.com/user-attachments/assets/71b44d24-63bf-4bed-b397-c19b67603f8d
+
+
+https://github.com/user-attachments/assets/f4198121-43b3-4feb-935b-c704266459cb
+
+
 
 *Demonstration of a simulation run with 10,000 particles*
 
@@ -24,7 +32,11 @@ https://github.com/user-attachments/assets/71b44d24-63bf-4bed-b397-c19b67603f8d
 
 ### Galaxy Collision
 
-https://github.com/user-attachments/assets/93036c4a-a434-41d9-85c1-6bdb3bb08188
+
+
+https://github.com/user-attachments/assets/c8cd6fff-329e-49d6-b93f-3ce29e14e34f
+
+
 
 *Demonstration of a simulation run with 10,000 particles*
 
@@ -32,7 +44,11 @@ https://github.com/user-attachments/assets/93036c4a-a434-41d9-85c1-6bdb3bb08188
 
 ### Tidal Disruption Event
 
-https://github.com/user-attachments/assets/864a7dce-a3b0-4f25-8739-b993a5ec9d38
+
+
+https://github.com/user-attachments/assets/5df89048-2c89-435d-a54c-4695357d6a5e
+
+
 
 *Demonstration of a simulation run with 3,000 particles*
 
