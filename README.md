@@ -7,28 +7,32 @@ A real-time 2D gravitational N-body simulator written in C++20.
 ## Scenarios
 
 ### Accretion Disk
-<video src="assets/disk.mp4" controls muted></video>
+
+https://github.com/user-attachments/assets/37972584-05e6-4069-b8ba-154faae19e12
 
 *Demonstration of a simulation run with 10,000 particles*
 
 ---
 
 ### Cold Cluster Collapse
-<video src="assets/cluster.mp4" controls muted></video>
+
+https://github.com/user-attachments/assets/71b44d24-63bf-4bed-b397-c19b67603f8d
 
 *Demonstration of a simulation run with 10,000 particles*
 
 ---
 
 ### Galaxy Collision
-<video src="assets/galaxy-collision.mp4" controls muted></video>
+
+https://github.com/user-attachments/assets/93036c4a-a434-41d9-85c1-6bdb3bb08188
 
 *Demonstration of a simulation run with 10,000 particles*
 
 ---
 
 ### Tidal Disruption Event
-<video src="assets/tidal.mp4" controls muted></video>
+
+https://github.com/user-attachments/assets/864a7dce-a3b0-4f25-8739-b993a5ec9d38
 
 *Demonstration of a simulation run with 3,000 particles*
 
